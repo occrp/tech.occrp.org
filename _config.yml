@@ -1,0 +1,14 @@
+markdown: rdiscount
+highlighter: pygments
+
+paginate: 7
+
+sass:
+  style: compressed
+
+url: https://tech.occrp.org/
+title: OCCRP technology team
+author: Organized Crime and Corruption Reporting Project
+description: >
+  We work with investigative reporters from across the globe to use technology,
+  open data and digital security tools to follow the money.
