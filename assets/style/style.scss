@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin: 2em 0 0.5em 0;
+  margin: 2em 0 1em 0;
   font-size: 1.4em;
 }
 
@@ -94,8 +94,8 @@ pre {
 }
 
 
-/* Navbar area */
-#menu {
+/* heading area */
+#heading {
   margin-top: 0.7em;
   $size: 2.5em;
 
@@ -103,8 +103,16 @@ pre {
     height: $size * 1.4;
   }
 
-  h1 {
-    //color: $light-font-color;
+  .claim {
+    color: $light-font-color;
+    font-size: 1.3em;
+    margin-top: 0.5em;
+  }
+
+  .site-title {
+    a {
+      color: $font-color;
+    }
     font-size: $size;
     margin-left: 0.5em;
     margin-top: 0em;
@@ -112,9 +120,24 @@ pre {
   }
 }
 
-/* home page */
-.claim {
-  color: $light-font-color;
+/* heading area */
+#menu {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin-bottom: 0.5em;
+      
+      a {
+        font-size: 0.9em;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight: bolder;
+      }
+    }
+  }
 }
 
 
@@ -177,16 +200,26 @@ footer {
 
 /* Post page */
 .post-date {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  //left: 0;
+  padding-bottom: 0.7em;
   color: $light-font-color;
 }
 
-#post {
+.post-date-box {
+  position: relative;
+}
+
+#content {
   a {
-    text-decoration: none;
+    text-decoration: underline;
+    //font-weight: bold;
   }
 
-  ul {
-    padding: 0 0 0 2em;
+  li {
+    margin-bottom: 0.5em;
   }
 }
 
