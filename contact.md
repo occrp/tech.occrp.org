@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact OCCRP Technology
-permalink: /contact
+permalink: /contact/
 home: true
 ---
 

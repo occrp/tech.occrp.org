@@ -3,9 +3,11 @@ layout: page
 title: Projects
 ---
 
-The OCCRP believes that investigative reporting needs to be collaborative and open.
+**The OCCRP believes that investigative reporting needs to be collaborative and open.
 That's why, when if comes to the digital tools we rely on, we've made a large bet
-on the development of free and open source software. 
+on the development of free and open source software.**
+
+Some of our current projects include:
 
 * **Investigative Dashboard**, a request tracking platform for research management.
   [Backend](https://github.com/occrp/id-backend) (Python, Django);

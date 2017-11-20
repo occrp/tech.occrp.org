@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Make Journalism Great Again
-permalink: /volunteer
+title: Volunteering
+permalink: /volunteer/
 ---
 
 I'm a fruit cake
