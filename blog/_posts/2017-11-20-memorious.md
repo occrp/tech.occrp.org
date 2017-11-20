@@ -11,9 +11,9 @@ description: >
 <img src="/assets/images/2017-11/funes.png" class="img-right">
 
 As they research businessmen and politicians, our investigative reporters 
-need access to documents and databases all over the world. To make such
+need access to documents and databases all over the world. To make
 relevant information accessible with a single keystroke, we run a large
-set of web crawlers that combine data from governments, corporations and
+set of crawlers that combine data from governments, corporations and
 other media into a [search engine](https://data.occrp.org).
 
 These crawlers often break when pages are updated, and they need to deal
