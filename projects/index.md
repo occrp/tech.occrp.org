@@ -29,9 +29,9 @@ on the development of free and open source software.
   [exactitude](https://github.com/alephdata/exactitude) for coherent data normalisation.
 * **cronosparser**, a data extractor for CRONOS databases,
   [in Python](https://github.com/occrp/cronosparser). License: MIT.
-* [https://git.occrp.org/libre](https://git.occrp.org/libre)
-* [https://github.com/occrp](https://github.com/occrp)
-* [https://github.com/alephdata](https://github.com/alephdata)
+* Systems operations: [https://git.occrp.org/libre](https://git.occrp.org/libre)
+* Sites and libraries: [https://github.com/occrp](https://github.com/occrp)
+* Data processing stack: [https://github.com/alephdata](https://github.com/alephdata)
 
 
 ### Some thanks
