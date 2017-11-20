@@ -12,10 +12,12 @@ on the development of free and open source software.
   [Frontend](https://github.com/occrp/id-frontend) (Ember.js); License: MIT.
 * **aleph**, a structured data search tool for documents and databases.
   [Backend](https://github.com/alephdata/aleph) (Python, Flask);
-  [Frontend](https://github.com/alephdata/aleph-ui) (React); License: MIT.
+  [Frontend](https://github.com/alephdata/aleph-ui) (React); 
+  [Documentation](https://aleph.readthedocs.io/en/latest/);
+  License: MIT.
 * **memorious**, a flexible and distributed scraping framework.
   [Written in Python](https://github.com/alephdata/memorious) using Celery, lxml,
-  requests; License: MIT.
+  requests; [Documentation](https://memorious.readthedocs.io/en/latest/); License: MIT.
 * **Related libraries**, for data normalisation and modelling:
   [fingerprints](https://github.com/alephdata/fingerprints) for entity key generation,
   [countrynames](https://github.com/alephdata/countrynames) to turn country names into
