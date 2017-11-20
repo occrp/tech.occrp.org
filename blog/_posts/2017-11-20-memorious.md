@@ -11,20 +11,20 @@ description: >
 <img src="/assets/images/2017-11/funes.png" class="img-right">
 
 As they research businessmen and politicians, our investigative reporters 
-need access to documents and databases all over the world. To make
-relevant information accessible with a single keystroke, we run a large
-set of crawlers that combine data from governments, corporations and
+need access to documents and databases all over the world. To make this
+relevant information accessible with a single keystroke, we have built a
+large set of crawlers that combine data from governments, corporations and
 other media into a [search engine](https://data.occrp.org).
 
 These crawlers often break when pages are updated, and they need to deal
-with uncooperative websites, in a huge variety of languages, formats 
+with uncooperative websites in a huge variety of languages, formats 
 and structures.
 
-That's why we decided to make a custom tool that encapsulates our experience
-with scraping and crawling. The result is a lightweight open source framework
-for web crawling: `memorious`.
+After looking at existing solutions we decided to make a tool that encapsulates
+our experience with scraping and crawling. The result is a lightweight open source framework
+for web crawling, `memorious`.
 
-Our goal is to make it simple to create and maintain a fleet of crawlers,
+It's goal is to make it simple to create and maintain a fleet of crawlers,
 while not forcing too much specific process. With `memorious`, you can:
 
 * Schedule crawlers to run at regular intervals (or run them ad-hoc as you need).
@@ -38,7 +38,7 @@ while not forcing too much specific process. With `memorious`, you can:
 
 For common crawling tasks, `memorious` does all of the heavy lifting. One
 of our most frequent objectives is to follow every link on a large website and
-download every PDF. To achieve this with `memorious`, all you need to write
+download all PDF files. To achieve this with `memorious`, all you need to write
 [is a YAML file](https://github.com/alephdata/memorious/blob/master/example/config/simple_web_scraper.yml)
 that plugs together existing components.
 
