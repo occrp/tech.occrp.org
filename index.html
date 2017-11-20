@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Welcome
+title: Technology for investigative reporting
 home: true
 ---
 
-<div class="row">
-  <div class="col-sm">
-    {% for post in site.categories.blog limit:8 %}
-      {% include postlink.html post=post %}
-    {% endfor %}
-    <i class="fa fa-rss-square"></i> <a href="/atom.xml">Subscribe via RSS</a>
-  </div>
-</div>
+{% for post in site.posts %}
+  {% include post_link.html post=post %}
+{% endfor %}

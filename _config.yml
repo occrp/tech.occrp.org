@@ -1,7 +1,6 @@
 markdown: rdiscount
 highlighter: pygments
-
-paginate: 7
+# paginate: 7
 
 sass:
   style: compressed
