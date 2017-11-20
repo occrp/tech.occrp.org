@@ -1,5 +1,9 @@
 <li>
-    <a href="{{ include.link }}">
+    {% if page.url == include.link %}
         {{include.label}}
-    </a>
+    {% else %}
+        <a href="{{ include.link }}">
+            {{include.label}}
+        </a>
+    {% endif %}
 </li>

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Contact OCCRP Technology
+title: Contact us
 permalink: /contact/
-home: true
 ---
 
 At the [Organized Crime and Corruption Reporting Project (OCCRP)](https://occrp.org),
