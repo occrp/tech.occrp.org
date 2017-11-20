@@ -15,7 +15,7 @@ keywords: OCCRP, organized crime, data mining, data journalism, aleph, leaks
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,300,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600' rel='stylesheet' type='text/css'>
     <link href="/assets/style/style.css" rel='stylesheet' type='text/css'>
     <link rel="shortcut icon" href="https://cdn.occrp.org/common/favicon/large.png">
     <meta name="robots" content="index, follow">
@@ -24,60 +24,20 @@ keywords: OCCRP, organized crime, data mining, data journalism, aleph, leaks
     <div id="page">
       <div class="container">
         <div class="row">
-          <div class="col-md-9">
+          <div class="col-md-12">
+              {% include header.html %}
               <div class="row">
-                <div class="col-sm">{% include menu.html %}</div>
-              </div>
-              <div class="row">
-                <div class="col-sm">{{ content }}</div>
+                <div class="col-sm col-md-8">{{ content }}</div>
+                <div class="col-sm col-md-4">
+                  {% include menu.html %}
+                </div>
               </div>
           </div>
         </div>
       </div>
     </div>
 
-    <footer class="hidden-print">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-9">
-            <p>
-              {{site.description}}
-              We're part of the <a href="//occrp.org/">Organized Crime and Corruption Reporting Project</a>.
-            </p>
-            <p>
-              <a href="https://www.occrp.org/en/about-us">About OCCRP</a> &middot;
-              <a href="https://www.occrp.org/en/contact">Contact</a> &middot;
-              <a href="https://www.occrp.org/en/donate">Donate</a> &middot;
-              <a href="https://www.occrp.org/en/become-a-whistleblower/">Share information</a>
-
-              
-            </p>
-          </div>
-          <div class="col-md-3">
-            <ul>
-              <li>
-                <a href="https://twitter.com/occrp">
-                  <i class="fa fa-twitter-square"></i>
-                  twitter.com/occrp
-                </a>
-              </li>
-              <li>
-                <a href="https://github.com/occrp">
-                  <i class="fa fa-github-square"></i>
-                  github.com/occrp
-                </a>
-              </li>
-              <li>
-                <a href="mailto:tech@pudo.org">
-                  <i class="fa fa-envelope-square"></i>
-                  tech@occrp.org
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </footer>
+    {% include footer.html %}
   </body>
 </html>
 

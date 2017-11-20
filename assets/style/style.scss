@@ -7,11 +7,9 @@ $light-font-color: #999;
 $muted-font-color: #cacaca;
 $dark-background: #444;
 
-
-
 @mixin plainfont() {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 @mixin textfont() {
@@ -28,8 +26,8 @@ $dark-background: #444;
   @include plainfont();
   line-height: 1.5em;
   margin-bottom: 0.6em;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+  font-family: 'Montserrat', 'Open Sans', sans-serif;
+  font-weight: 600;
 
   a {
     text-decoration: none;
@@ -40,6 +38,7 @@ body {
   color: $font-color;
   @include textfont();
   font-size: 16px;
+  line-height: 1.5em;
   border-top: 0.9em solid $primary-color;
   background-color: $dark-background;
 }
@@ -49,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin: 0.5em 0 0.5em 0;
+  margin: 2em 0 0.5em 0;
   font-size: 1.4em;
 }
 
@@ -114,7 +113,7 @@ pre {
 }
 
 /* home page */
-.page-banner {
+.claim {
   color: $light-font-color;
 }
 
@@ -141,9 +140,9 @@ footer {
     color: $col;
   }
 
-  i {
-    color: $primary-color;
-  }
+  // i {
+  //   color: $primary-color;
+  // }
 
   ul {
     list-style-type: none;

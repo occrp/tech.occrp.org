@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="col-md-8">
+        <div id="menu">
+            <div class="float-left">
+                <a href="/">
+                    <img src="https://cdn.occrp.org/common/favicon/large.png">
+                </a>
+            </div>
+            <div class="float-left">
+                <h1>
+                    occrp technology
+                </h1>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-8">
+        {% if page.claim %}
+        <h1 class="claim">
+            {{site.description}}
+        </h1>
+        {% endif %}
+    </div>
+</div>
