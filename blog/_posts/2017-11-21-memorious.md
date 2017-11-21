@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing memorious, a web crawling toolkit"
-author: Amy Guy, Friedrich Lindenberg
+author: Amy Guy and Friedrich Lindenberg
 description: >
     A Python-based web crawling and scraping framework that combines the
     versatility of requests/BeautifulSoup-style scraping with a robust

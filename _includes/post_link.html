@@ -3,10 +3,10 @@
   {% if include.post.categories contains "blog" and post.unlisted != true %}
     <h3 class="title"><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
     <span class="description">
-      <span class="date">{{ include.post.date | date: "%d.%m.%Y" }}</span>
-      {% comment %} 
-      {{ include.post.description }}
-      {% endcomment %}
+      <span class="date">
+        {{ include.post.date | date: "%d.%m.%Y" }},
+        by {{include.post.author}}
+      </span>
       {{ include.post.content }}
     </span>
   {% endif %}
