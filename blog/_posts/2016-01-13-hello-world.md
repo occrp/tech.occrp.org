@@ -2,7 +2,7 @@
 layout: post
 title: "First Post"
 author: "Smári McCarthy"
-categories: [ "Meta" ]
+# categories: [ "Meta" ]
 ---
 
 Around this time a year ago, OCCRP's Tech Team consisted of a single 

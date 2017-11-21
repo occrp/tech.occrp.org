@@ -3,7 +3,7 @@ layout: post
 title: Migrating ElasticSearch across versions and clusters
 author: Michał "rysiek" Woźniak
 tags: ["ElasticSearch", "Migration"]
-categories: ["Sysadmin"]
+# categories: ["Sysadmin"]
 ---
 
 Migrating data between ES clusters might seem like a simple thing -- after all, there are [dedicated tools](http://tech.taskrabbit.com/blog/2014/01/06/elasticsearch-dump/) for that. Or one could [use logstash with a simple config](https://stackoverflow.com/questions/17884581/elasticsearch-how-to-copy-data-to-another-cluster/26295832#26295832).

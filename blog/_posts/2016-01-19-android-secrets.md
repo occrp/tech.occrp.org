@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Keeping Your Android Secrets Out of Git"
 author: "Christopher Guess"
-categories: [ "Android", "Security", "Git" ]
+# categories: [ "Android", "Security", "Git" ]
 ---
 
 Developers have a habit (one I've been guilty of) of committing API keys and other secrets to our repositories. It’s easy to do it if you’re tired, if you’re hurried, if you’re “moving fast and breaking things”.

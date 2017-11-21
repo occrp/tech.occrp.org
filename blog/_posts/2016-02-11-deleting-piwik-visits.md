@@ -3,7 +3,7 @@ layout: post
 title: Manually deleting visits from Piwik by their IP (or URL, or...)
 author: Aleksandar Todorović (r3bl)
 tags: ["Piwik"]
-categories: ["Sysadmin"]
+# categories: ["Sysadmin"]
 ---
 
 [Piwik](http://piwik.org/) is an awesome self-hosted analytics service. We've been relying on it for a very long time and we were always satisfied with what it brought to us. During our work, however, we have accidentally allowed the traffic from our own servers to appear in Piwik, and some general traffic to be counted more than once, therefore we have accidentally boosted our own stats.
