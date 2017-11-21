@@ -62,7 +62,7 @@ cookie persistence, HTTP caching and logging.
 
 Within OCCRP, `memorious` is used to feed documents and structured data into
 [aleph](https://github.com/alephdata/aleph) via an API, which means documents
-become searchable as soon as they have been crawled. They will also, of course,
+become searchable as soon as they have been crawled. There they will also
 be sent through OCR and entity extraction so they can link into an investigative
 knowledge graph.
 
