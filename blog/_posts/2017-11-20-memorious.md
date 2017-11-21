@@ -8,30 +8,34 @@ description: >
     story for error logging, timed runs and component re-use.
 ---
 
+Investigating the (often dubious) dealings of businessmen and politicians,
+our reporters need access to documents and databases from all over the
+world.
+
 <img src="/assets/images/2017-11/funes.png" class="img-right">
 
-As they research businessmen and politicians, our investigative reporters 
-need access to documents and databases all over the world. To make this
-relevant information accessible with a single keystroke, we have built a
-large set of crawlers that combine data from governments, corporations and
-other media into a [search engine](https://data.occrp.org).
+To make their searches better, we're developing tools that make large
+amounts of data accessible with a single keystroke. We have built a set
+of crawlers that combine data from governments, corporations and other
+media into a [search engine](https://data.occrp.org).
 
-These crawlers often break when pages are updated, and they need to deal
-with uncooperative websites in a huge variety of languages, formats 
-and structures.
+However, these crawlers need to deal with uncooperative websites in
+different languages, formats and structures and they often break when
+pages are updated. 
 
-After looking at existing solutions we decided to make a tool that encapsulates
-our experience with scraping and crawling. The result is a lightweight open source framework
-for web crawling, `memorious`.
+After experimenting with some existing solutions, we decided to make a
+tool that encapsulates our experience with web crawling. The result is a
+lightweight open source framework named `memorious`
+([GitHub](https://github.com/alephdata/memorious)).
 
-It's goal is to make it simple to create and maintain a fleet of crawlers,
-while not forcing too much specific process. With `memorious`, you can:
+`memorious` is simple and yet allows you to create and maintain a fleet
+of crawlers, while not forcing too much specific process.
 
 * Schedule crawlers to run at regular intervals (or run them ad-hoc as you need).
-* Keep track of error messages and warnings and help admins see which crawlers
+* Keep track of error messages and warnings that help admins see which crawlers
   are in need of maintenance.
 * Lets you use familiar tools like `requests`, `BeautifulSoup`, `lxml` or 
-  `dataset` to do the actual scraping, while offering advanced integrations.
+  `dataset` to do the actual scraping.
 * Distribute scraping tasks across multiple machines.
 * Maintain an overview of your crawlers' status using the command line or a 
   web-based admin interface.
@@ -62,17 +66,17 @@ cookie persistence, HTTP caching and logging.
 
 Within OCCRP, `memorious` is used to feed documents and structured data into
 [aleph](https://github.com/alephdata/aleph) via an API, which means documents
-become searchable as soon as they have been crawled. There they will also
-be sent through OCR and entity extraction so they can link into an investigative
-knowledge graph.
+become searchable as soon as they have been crawled. There, they will also
+be sent through OCR and entity recognition. `aleph` aims to use these extracted
+entities as bridges that link a given document to other databases and documents.
 
 For a more detailed description of what `memorious` can do, see the
 [documentation](https://memorious.readthedocs.io) and check out our
 [example project](https://github.com/alephdata/memorious/tree/master/example).
-You can try `memorious` out by running it locally in [development mode](https://memorious.readthedocs.io/en/latest/installation.html#development-mode),
+You can try `memorious` by running it locally in [development mode](https://memorious.readthedocs.io/en/latest/installation.html#development-mode),
 and, of course, we also have a Docker setup for robust production deployment.
 
-As we continually improve our own crawler development at OCCRP, we'll be adding
+As we continually improve our crawler infrastructure at OCCRP, we'll be adding
 features to `memorious` for everyone to use. Similarly, we'd love input from the data 
 journalism and open data communities; [issues](https://github.com/alephdata/memorious/issues)
 and [PRs](https://github.com/alephdata/memorious) are welcome.
