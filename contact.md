@@ -17,7 +17,7 @@ OCCRP. It also operates the [Investigative Dashboard](https://investigativedashb
 
 * Team: data@occrp.org (GPG: `2A1B 67C0 F332 ED4F 722D 8276 4E7F 26CB D4FA FD4E`)
 * Team Lead: Friedrich Lindenberg, pudo@occrp.org
-  (GPG: `[DA77 EE6B 3BF0 62DA 3F92 8448 BE7A 1311 1FC1 EE01](https://pgp.mit.edu/pks/lookup?op=get&search=0xBE7A13111FC1EE01)`)
+  (GPG: [`DA77 EE6B 3BF0 62DA 3F92 8448 BE7A 1311 1FC1 EE01`](https://pgp.mit.edu/pks/lookup?op=get&search=0xBE7A13111FC1EE01))
 
 
 ## Security and Operations Team
