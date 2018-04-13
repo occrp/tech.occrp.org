@@ -17,7 +17,7 @@ Since the informations for this process were not as clear as we wanted them to b
 This seems like a simple thing, but it turned out to be much harder. We had the list of couple of IP addresses that we wanted to exclude from Piwik, but after about half an hour of me searching through Piwik's interface, I was not able to find a way how to see the entire traffic that originated from a specific IP address. Luckily, I stumbled upon [this short post](http://blog.onlineinstitute.com/traffic-analytics/how-to-search-for-ip-addresses-within-piwiks-logs/) which gave me every information I needed. To see the traffic from a specific IP, you have to manually tweak the URL you are visiting to:
 
 ```
-https://piwik.example.com/index.php/?module=CoreHome&action=index&idSite=1&period=year&date=2016#module=Live&action=getVisitorLog&idSite=1&segment=visitIp=={{ IP ADDRESS GOES HERE }}
+https://piwik.example.com/index.php/?module=CoreHome&action=index&idSite=1&period=year&date=2016#module=Live&action=getVisitorLog&idSite=1&segment=visitIp==\{\{ IP ADDRESS GOES HERE \}\}
 ```
 
 Bear in mind that Piwik shows 500 actions per visit as a maximum, so if the requested IP made over 500 actions in a single visit (for example, if it was a bot, or if somebody tried to scrape your website), you're only going to see the very first 500 actions that were requested by that IP.
@@ -39,7 +39,7 @@ SELECT COUNT(*)
         ON log_visit.idvisit = log_link_visit_action.idvisit
     LEFT JOIN piwik_log_action as log_action
         ON log_action.idaction = log_link_visit_action.idaction_url
-WHERE log_visit.location_ip=UNHEX("{{ HEX_VALUE_GOES_HERE }}");
+WHERE log_visit.location_ip=UNHEX("\{\{ HEX_VALUE_GOES_HERE \}\}");
 ```
 
 As you can see, Piwik stores the relevant visitor info into three separate MySQL databases: `piwik_log_visit`, `piwik_log_link_visit_action` and `piwik_log_action`.
@@ -59,7 +59,7 @@ DELETE log_visit, log_link_visit_action
         ON log_visit.idvisit = log_link_visit_action.idvisit
     LEFT JOIN piwik_log_action as log_action
         ON log_action.idaction = log_link_visit_action.idaction_url
-WHERE log_visit.location_ip=UNHEX("{{ HEX_VALUE_GOES_HERE }}");
+WHERE log_visit.location_ip=UNHEX("\{\{ HEX_VALUE_GOES_HERE \}\}");
 ```
 
 You can verify that the visits/pageviews are gone from the db by using the `SELECT` statements again, of course.
