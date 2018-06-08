@@ -3,7 +3,7 @@ layout: post
 title: "Come for the company formation.  Stay for the beaches!"
 author: Jason Shea
 description: >
-    SOMETHING
+    Tour of ADS-B aircraft tracking capabilities and an outline of discoveries relating money laundering hubs to Russian oligarch travels.
 
 ---
 
@@ -19,7 +19,7 @@ Like most aircraft, Mr. Abramovich’s Boeing regularly, though not always, tran
 <div class="captioned">
     <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" class="img-right">
     <div class="caption">
-        The cutting edge of aircraft detection.  Credit: www.adsbexchange.com
+        The bleeding edge of aircraft detection.  Credit: www.adsbexchange.com
     </div>
 </div>
 
@@ -38,7 +38,12 @@ These barriers and the implied complicity of the flight-tracking community have 
 
 Receivers in this co-operative network record information including the aircraft position, speed, altitude, and timestamp, all signed with an ‘address’ known as an ICAO address or Mode-S code, which uniquely identifies the aircraft.  Each of these receivers in turn has an effective range, in terms of distance from the receiver and altitude of the aircraft, to a maximum of around four hundred kilometers.  
 
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" width="400px" class="img-right">
+<div class="captioned">
+    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" width="600px" class="img-right">
+    <div class="caption">
+        Credit: National Air and Space Museum, Smithsonian Institution.
+    </div>
+</div>
 
 This network of receivers is located mostly on densely populated landmasses so depending on where an aircraft is flying, it will sometimes leave the network’s range entirely, potentially when they’ve flown across the Atlantic, or the Sahara.  Other wrinkles to assembling a clear picture of activity emerge when an aircraft descends under the effective altitude for signal transmission - predominantly to land - or when overlapping signals are detected by multiple receivers.  Any attempt to piece together a picture of travels by hand will inevitably be complex and painstaking - Abramovich alone has generated over forty-eight thousand aircraft position readings in a nearly two year period.
 
@@ -64,9 +69,24 @@ In one example, Cyprus, long described as a gateway into Europe for Russian mone
 
 ### Come for Company Formation, Stay for the Beaches
 
-While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man. 
+While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man.  To understand how these destinations might be of interest, look no further than OCCRP's fine reporting on two global operations.
 
-<img src="https://www.occrp.org/images/panamapapers.jpg">
+<div class="captioned">
+    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" class="img-left">
+    <a href="https://www.occrp.org/en/panamapapers/">
+    <div class="caption">
+        Credit: Dig deeper : The OCCRP reports on The Panama Papers
+    </div>
+</div>
+
+<div class="captioned">
+    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/laundromat-infographic-short.png" width="400px" class="img-right">
+    <a href="https://www.occrp.org/en/laundromat/">
+    <div class="caption">
+        Credit: Dig deeper : The OCCRP reports on The Russian Laundromat
+    </div>
+</div>
+
 
 Returning to Mr. Abramovich, we know his jet visited the area of the British Virgin Islands several times in early 2017, including this trip from New Jersey on February 17 2017, staying until February 27.  Similar trips occured on January 3, and March 24, and December 22. 
 
