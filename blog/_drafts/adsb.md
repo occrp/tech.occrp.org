@@ -79,13 +79,12 @@ While the wealthy and powerful travel European capitals and the exclusive resort
     </figure>
 </a>
 
-<!--
-<figure>
-  <a href="https://www.occrp.org/en/laundromat/">
+<a href="https://www.occrp.org/en/laundromat/">
+    <figure>
     <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/laundromat-infographic-short.png" align="right" width="400px" text-align="right">
-<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption>
-</figure>
--->
+<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption> -->
+    </figure>
+</a>
 
 Returning to Mr. Abramovich, we know his jet visited the area of the British Virgin Islands several times in early 2017, including this trip from New Jersey on February 17 2017, staying until February 27.  Similar trips occured on January 3, and March 24, and December 22. 
 
