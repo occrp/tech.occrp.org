@@ -17,9 +17,10 @@ It would be uncouth for a man of such refined airs to travel on a commercial air
 Like most aircraft, Mr. Abramovich’s Boeing regularly, though not always, transmits its location along with various other data about the aircraft on a public high-frequency radio band, primarily for use by air-traffic control systems and other aircraft, known as the ADS-B system. 
 
 <figure>
-  <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" align="right">
-  <figcaption> The bleeding edge of aircraft detection.  Credit: www.adsbexchange.com </figcaption>
+  <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" align="right" text-align="right">
+<!--  <caption>The bleeding edge of aircraft detection.  Credit: www.adsbexchange.com</caption> -->
 </figure>
+
 
 These signals can be monitored with any appropriately tuned antenna – you can make one at home! – and several ‘flight tracking’ websites operate data gathering networks and present their findings to anyone who is interested. Some examples of these efforts below.
 
@@ -35,24 +36,26 @@ These barriers and the implied complicity of the flight-tracking community have 
 
 Receivers in this co-operative network record information including the aircraft position, speed, altitude, and timestamp, all signed with an ‘address’ known as an ICAO address or Mode-S code, which uniquely identifies the aircraft.  Each of these receivers in turn has an effective range, in terms of distance from the receiver and altitude of the aircraft, to a maximum of around four hundred kilometers.  
 
-<div class="captioned">
-    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" width="600px" class="img-right">
-    <div class="caption">
-        Credit: National Air and Space Museum, Smithsonian Institution.
-    </div>
-</div>
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" align="right"  width="400px" text-align="right">
+<!--  <caption>Credit: National Air and Space Museum, Smithsonian Institution.</caption> -->
+</figure>
 
 This network of receivers is located mostly on densely populated landmasses so depending on where an aircraft is flying, it will sometimes leave the network’s range entirely, potentially when they’ve flown across the Atlantic, or the Sahara.  Other wrinkles to assembling a clear picture of activity emerge when an aircraft descends under the effective altitude for signal transmission - predominantly to land - or when overlapping signals are detected by multiple receivers.  Any attempt to piece together a picture of travels by hand will inevitably be complex and painstaking - Abramovich alone has generated over forty-eight thousand aircraft position readings in a nearly two year period.
 
 To assemble collections of readings that constitute distinct flights, OCCRP’s data team has designed a small collection of data analysis algorithms which, among other things, group observations of any aircraft across multiple atennae by timestamp and infer takeoff & landing through a combination of first & last position relative to major airports and aircraft altitude at the time.  
 
 For example, if a collection shows an aircraft’s final position reading for (at least) many hours near London Heathrow at a low altitude, our algorithm assumes it’s landed there.  
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-07-01_Moscow_London.png" width="200px" class="img-right">
+
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-07-01_Moscow_London.png" align="right" width="200px" text-align="right">
+</figure>
 
 By contrast, if we find the last reading at a high altitude above the North Atlantic off the Irish coast, with readings resuming after a couple of hours above Iceland, we stitch the two sets of positions together.  
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-08-14_UNKNOWN_London.png" width="200px" class="img-right">
 
-
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-08-14_UNKNOWN_London.png" align="right" width="200px" text-align="right">
+</figure>
 
 Note that flight data from this network should not be considered complete.  In many parts of the world, including many potential regions of interest, the available receivers may be few and far apart, and the sparse ADS-B data can force a ‘best guess’ methodology for projecting what airport the aircraft is departing / arriving.  In some cases, an aircraft’s signal is seen to disappear over an ocean and isn’t seen for weeks, due either to staying grounded / out of the network’s coverage area or potentially deactivating its’ transponder.
 
@@ -61,7 +64,7 @@ After observations are algorithmically grouped into distinct flights, we can zoo
 In one example, Cyprus, long described as a gateway into Europe for Russian money, has seen many interesting visitors (each oligarch has his own color!... see below for details).
 
 
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/blog_cyprus_1.png" class="img-right">
+<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/blog_cyprus_1.png" align="center">
 
 
 ### Come for Company Formation, Stay for the Beaches
