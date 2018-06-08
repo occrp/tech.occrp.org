@@ -16,13 +16,10 @@ It would be uncouth for a man of such refined airs to travel on a commercial air
 
 Like most aircraft, Mr. Abramovich’s Boeing regularly, though not always, transmits its location along with various other data about the aircraft on a public high-frequency radio band, primarily for use by air-traffic control systems and other aircraft, known as the ADS-B system. 
 
-<div class="captioned">
-    <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" class="img-right">
-    <div class="caption">
-        The bleeding edge of aircraft detection.  Credit: www.adsbexchange.com
-    </div>
-</div>
-
+<figure>
+  <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" align="right">
+  <figcaption> The bleeding edge of aircraft detection.  Credit: www.adsbexchange.com </figcaption>
+</figure>
 
 These signals can be monitored with any appropriately tuned antenna – you can make one at home! – and several ‘flight tracking’ websites operate data gathering networks and present their findings to anyone who is interested. Some examples of these efforts below.
 
