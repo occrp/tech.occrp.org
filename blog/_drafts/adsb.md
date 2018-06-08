@@ -73,7 +73,6 @@ While the wealthy and powerful travel European capitals and the exclusive resort
 
 <a href="https://www.occrp.org/en/panamapapers/">
     <figure>
-<!--  <a href="https://www.occrp.org/en/panamapapers/"> -->
     <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" text-align="right">
 <!--  <caption> Credit: Dig deeper : The OCCRP reports on The Panama Papers</caption> -->
     </figure>
@@ -86,12 +85,11 @@ While the wealthy and powerful travel European capitals and the exclusive resort
     </figure>
 </a>
 
-Returning to Mr. Abramovich, we know his jet visited the area of the British Virgin Islands several times in early 2017, including this trip from New Jersey on February 17 2017, staying until February 27.  Similar trips occured on January 3, and March 24, and December 22. 
-
 <figure>
   <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" align="right" width="200px" text-align="right">
 </figure>
 
+Returning to Mr. Abramovich, we know his jet visited the area of the British Virgin Islands several times in early 2017, including this trip from New Jersey on February 17 2017, staying until February 27.  Similar trips occured on January 3, and March 24, and December 22. 
 
 Are billionaires not allowed to soak in long sea-breeze Caribbean evenings on the beach along with the rest of us (who can afford to step foot in these exclusive communities)?  One imagines his evenings,enjoying peaceful Gulf sunsets while sipping from a bottle of 1780 Barbados Private Estate, attended by a small army of dolphins trained for his exclusive entertainment from the comfort of a glass-walled swimming pool levitating above a flawless peach-hued bay.  
 OCCRP alleges no illegal activity by Mr. Abramovich or any of the other billionaires detailed below, only that they are frequent fliers to certain locations.  They may well be simply vacationing via private jet.  
@@ -102,88 +100,45 @@ It might just be of interest to see if any companies were registered during thes
 
 
 ### Boyars in Paradise (and the Irish Sea)
-OCCRP has initially examined 35 aircraft of interest flying more than 7.5 million kilometers over some 5800 flights.  This analysis has uncovered trips to known money laundering resorts from a number of notable figures including.
+OCCRP has initially examined 35 aircraft of interest flying more than 7.5 million kilometers over some 5800 flights.  This analysis has uncovered trips to known money laundering resorts from a number of notable figures including:
+
 ##### Roman Abramovich : Russian diversified businessman, philanthropist, and owner of Chelsea FC.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Roman_Abramovich_2.jpg/220px-Roman_Abramovich_2.jpg" width="200px" class="img-right">
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 1/3/2017  | New Jersey, USA  | Anegada, British VG  |
-| 3/24/2017  | Denver, USA  | Anegada, British VG  |
-
 ##### Alisher Usmanov : Uzbek-Russian industrial magnate and investor.
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 2/20/2018  | Larnaca, Cyprus  | Mulhouse, France  |
-
 ##### Alexander Abramov : Russian steel magnate, chairman of Evraz Group.
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 12/5/2016  | Van Nuys, USA  | Anegada, British VG  |
-| 2/6/2017  | Houston, USA  | Anegada, British VG  |
-| 2/23/2017  | Miami, USA  | Anegada, British VG  |
-
 ##### Farkhad Akhmedov : Azeri-Russian businessman and politician.
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 1/17/2017  | Spanish Town, British VG  | Miami, USA  |
-
 ##### Len Blavatnik : Soviet-born British-American diversified businessman.  Active in American politics and longtime friend of Viktor Vekselberg.
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 12/29/2016  | San Juan, Puerto Rico  | St. Thomas, Virgin Islands  |
-| 4/9/2017  | Alice Town, Bahamas  | Anegada, British VG  |
-
 ##### Igor Makarov : Turkmen-Russian businessman, owner of ARETI International Group.  
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 7/14/2016  | Paphos, Cyprus  | Unknown in France  |
-| 10/12/2016  | Unknown, North Atlantic | Nicosia, Cyprus  |
-| 10/15/2016  | Cairo, Egypt  | Larnaca, Cyprus  |
-
-##### Andrey Guryev : Dominant in the Russian fertilizer industry; beneficial owner of PhosAgro.  
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 8/13/2016  | Unknown in Greece  | Paphos, Cyprus  |
-
-
+##### Andrey Guryev : Dominant in the Russian fertilizer industry; beneficial owner of PhosAgro. 
 ##### Dmytro Firtash : Ukranian businessman and ally of the Yuschenko & Yanukovich administrations.  US currently seeking extradition.
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 3/25/2017  | Unknown in South Pacific  | Auckland, NZ  |
-
-##### Leonid Mikhelson : Owner of Russian gas company Novatek and subject to US sanctions.  
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 9/25/2016  | Akrotiri, Cyprus  | Strasbourg Neudorf, France  |
-
+##### Leonid Mikhelson : Owner of Russian gas company Novatek and subject to US sanctions. 
 ##### Oleg Tinkov : Russian diversified businessman and founder of Tinkoff Bank.  
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 4/27/2018  | Florence, Italy  | Larnaca, Cyprus  |
-
 ##### Alexei Mordashov : Russian owner of Severstal.  
-
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 5/10/2017  | Isle of Man  | London, UK  |
-
 ##### Alexander Mashkevitch : Kazakh-Israeli businessman and major shareholder in Eurasian National Resources Corporation. 
 
-| Date | Origin  | Destination |
-| ------------- | ------------- | ------------- |
-| 12/16/2017  | Isle of Man  | London, UK  |
-| 2/25/2018  | London, UK | Panama City, Panama  |
-| 4/11/2018  | Panama City, Panama  | Punta Cana, Dominican Republic  |
+| Aircraft Owner | Date | Origin  | Destination |
+| ------------- | ------------- | ------------- | ------------- |
+| Alexander Abramov | 12/5/2016  | Van Nuys, USA  | Anegada, British VG  |
+| Alexander Abramov | 2/6/2017  | Houston, USA  | Anegada, British VG  |
+| Alexander Abramov | 2/23/2017  | Miami, USA  | Anegada, British VG  |
+| Alexander Mashkevitch | 12/16/2017  | Isle of Man  | London, UK  |
+| Alexander Mashkevitch | 2/25/2018  | London, UK | Panama City, Panama  |
+| Alexander Mashkevitch | 4/11/2018  | Panama City, Panama  | Punta Cana, Dominican Republic  |
+| Alexei Mordashov | 5/10/2017  | Isle of Man  | London, UK  |
+| Alisher Usmanov | 2/20/2018  | Larnaca, Cyprus  | Mulhouse, France  |
+| Andrey Guryev | 8/13/2016  | Unknown in Greece  | Paphos, Cyprus  |
+| Dmytro Firtash | 3/25/2017  | Unknown in South Pacific  | Auckland, NZ  |
+| Farkhad Akhmedov | 1/17/2017  | Spanish Town, British VG  | Miami, USA  |
+| Igor Makarov | 7/14/2016  | Paphos, Cyprus  | Unknown in France  |
+| Igor Makarov | 10/12/2016  | Unknown, North Atlantic | Nicosia, Cyprus  |
+| Igor Makarov | 10/15/2016  | Cairo, Egypt  | Larnaca, Cyprus  |
+| Len Blavatnik | 12/29/2016  | San Juan, Puerto Rico  | St. Thomas, Virgin Islands  |
+| Len Blavatnik | 4/9/2017  | Alice Town, Bahamas  | Anegada, British VG  |
+| Leonid Mikhelson | 9/25/2016  | Akrotiri, Cyprus  | Strasbourg Neudorf, France  |
+| Oleg Tinkov | 4/27/2018  | Florence, Italy  | Larnaca, Cyprus  |
+| Roman Abramovich | 1/3/2017  | New Jersey, USA  | Anegada, British VG  |
+| Roman Abramovich | 3/24/2017  | Denver, USA  | Anegada, British VG  |
+
+
 
 
 Investigative curiosities from the jet-setting frontier don’t stop at money laundering.  Witness Mr. Abramovich on 3-9-18, flying (it appears) from Crimea / Rostov-on-Don area, amusingly looping the hundreds of kilometers all the way round Ukrainian airspace, to London. 
