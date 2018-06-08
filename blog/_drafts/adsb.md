@@ -91,18 +91,79 @@ OCCRP has initially examined 35 aircraft of interest flying more than 7.5 millio
 | 1/3/2017  | New Jersey, USA  | Anegada, British VG  |
 | 3/24/2017  | Denver, USA  | Anegada, British VG  |
 
+##### Alisher Usmanov : Uzbek-Russian industrial magnate and investor.
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 2/20/2018  | Larnaca, Cyprus  | Mulhouse, France  |
 
 ##### Alexander Abramov : Russian steel magnate, chairman of Evraz Group.
-##### Mikhail Prokhorov : Russian precious metals tycoon, owner of ONEXIM Group, noted Tescao enthusiast, and world’s tallest billionaire!
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 12/5/2016  | Van Nuys, USA  | Anegada, British VG  |
+| 2/6/2017  | Houston, USA  | Anegada, British VG  |
+| 2/23/2017  | Miami, USA  | Anegada, British VG  |
+
 ##### Farkhad Akhmedov : Azeri-Russian businessman and politician.
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 1/17/2017  | Spanish Town, British VG  | Miami, USA  |
+
 ##### Len Blavatnik : Soviet-born British-American diversified businessman.  Active in American politics and longtime friend of Viktor Vekselberg.
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 12/29/2016  | San Juan, Puerto Rico  | St. Thomas, Virgin Islands  |
+| 4/9/2017  | Alice Town, Bahamas  | Anegada, British VG  |
+
 ##### Igor Makarov : Turkmen-Russian businessman, owner of ARETI International Group.  
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 7/14/2016  | Paphos, Cyprus  | Unknown in France  |
+| 10/12/2016  | Unknown, North Atlantic | Nicosia, Cyprus  |
+| 10/15/2016  | Cairo, Egypt  | Larnaca, Cyprus  |
+
 ##### Andrey Guryev : Dominant in the Russian fertilizer industry; beneficial owner of PhosAgro.  
-##### Dmitry Rybolovlev : Russian businessman, owner of AS Monaco and major stakeholder in the Bank of Cyprus. 
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 8/13/2016  | Unknown in Greece  | Paphos, Cyprus  |
+
+
+##### Dmytro Firtash : Ukranian businessman and ally of the Yuschenko & Yanukovich administrations.  US currently seeking extradition.
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 3/25/2017  | Unknown in South Pacific  | Auckland, NZ  |
+
 ##### Leonid Mikhelson : Owner of Russian gas company Novatek and subject to US sanctions.  
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 9/25/2016  | Akrotiri, Cyprus  | Strasbourg Neudorf, France  |
+
 ##### Oleg Tinkov : Russian diversified businessman and founder of Tinkoff Bank.  
-##### Alexei Mordashov : Russian owner of Severstal.  Visited the Isle of Man on 5/10/17.
-##### Alexander Mashkevitch : Kazakh-Israeli businessman and major shareholder in Eurasian National Resources Corporation.  
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 4/27/2018  | Florence, Italy  | Larnaca, Cyprus  |
+
+##### Alexei Mordashov : Russian owner of Severstal.  
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 5/10/2017  | Isle of Man  | London, UK  |
+
+##### Alexander Mashkevitch : Kazakh-Israeli businessman and major shareholder in Eurasian National Resources Corporation. 
+
+| Date | Origin  | Destination |
+| ------------- | ------------- | ------------- |
+| 12/16/2017  | Isle of Man  | London, UK  |
+| 2/25/2018  | London, UK | Panama City, Panama  |
+| 4/11/2018  | Panama City, Panama  | Punta Cana, Dominican Republic  |
 
 {link to table : https://docs.google.com/spreadsheets/d/1TqrOlnOvxx38xUqIoWlkGkCofOEJpXHMjvAvsYxbNAk/edit?usp=sharing}
 
