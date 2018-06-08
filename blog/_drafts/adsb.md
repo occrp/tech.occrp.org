@@ -3,7 +3,7 @@ layout: post
 title: "Come for the company formation.  Stay for the beaches!"
 author: Jason Shea
 description: >
-    SOMETHING
+    Tour of ADS-B aircraft tracking capabilities and an outline of discoveries relating money laundering hubs to Russian oligarch travels.
 
 ---
 
@@ -16,12 +16,10 @@ It would be uncouth for a man of such refined airs to travel on a commercial air
 
 Like most aircraft, Mr. Abramovich’s Boeing regularly, though not always, transmits its location along with various other data about the aircraft on a public high-frequency radio band, primarily for use by air-traffic control systems and other aircraft, known as the ADS-B system. 
 
-<div class="captioned">
-    <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" class="img-right">
-    <div class="caption">
-        The cutting edge of aircraft detection.  Credit: www.adsbexchange.com
-    </div>
-</div>
+<figure>
+  <img src="https://www.adsbexchange.com/wp-content/uploads/Everythingoncan-225x300.jpg" align="right" text-align="right">
+<!--  <caption>The bleeding edge of aircraft detection.  Credit: www.adsbexchange.com</caption> -->
+</figure>
 
 
 These signals can be monitored with any appropriately tuned antenna – you can make one at home! – and several ‘flight tracking’ websites operate data gathering networks and present their findings to anyone who is interested. Some examples of these efforts below.
@@ -38,19 +36,26 @@ These barriers and the implied complicity of the flight-tracking community have 
 
 Receivers in this co-operative network record information including the aircraft position, speed, altitude, and timestamp, all signed with an ‘address’ known as an ICAO address or Mode-S code, which uniquely identifies the aircraft.  Each of these receivers in turn has an effective range, in terms of distance from the receiver and altitude of the aircraft, to a maximum of around four hundred kilometers.  
 
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" width="400px" class="img-right">
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" align="right"  width="600px" text-align="right">
+<!--  <caption>Credit: National Air and Space Museum, Smithsonian Institution.</caption> -->
+</figure>
 
 This network of receivers is located mostly on densely populated landmasses so depending on where an aircraft is flying, it will sometimes leave the network’s range entirely, potentially when they’ve flown across the Atlantic, or the Sahara.  Other wrinkles to assembling a clear picture of activity emerge when an aircraft descends under the effective altitude for signal transmission - predominantly to land - or when overlapping signals are detected by multiple receivers.  Any attempt to piece together a picture of travels by hand will inevitably be complex and painstaking - Abramovich alone has generated over forty-eight thousand aircraft position readings in a nearly two year period.
 
 To assemble collections of readings that constitute distinct flights, OCCRP’s data team has designed a small collection of data analysis algorithms which, among other things, group observations of any aircraft across multiple atennae by timestamp and infer takeoff & landing through a combination of first & last position relative to major airports and aircraft altitude at the time.  
 
 For example, if a collection shows an aircraft’s final position reading for (at least) many hours near London Heathrow at a low altitude, our algorithm assumes it’s landed there.  
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-07-01_Moscow_London.png" width="200px" class="img-right">
+
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-07-01_Moscow_London.png" align="right" width="200px" text-align="right">
+</figure>
 
 By contrast, if we find the last reading at a high altitude above the North Atlantic off the Irish coast, with readings resuming after a couple of hours above Iceland, we stitch the two sets of positions together.  
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-08-14_UNKNOWN_London.png" width="200px" class="img-right">
 
-
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-08-14_UNKNOWN_London.png" align="right" width="200px" text-align="right">
+</figure>
 
 Note that flight data from this network should not be considered complete.  In many parts of the world, including many potential regions of interest, the available receivers may be few and far apart, and the sparse ADS-B data can force a ‘best guess’ methodology for projecting what airport the aircraft is departing / arriving.  In some cases, an aircraft’s signal is seen to disappear over an ocean and isn’t seen for weeks, due either to staying grounded / out of the network’s coverage area or potentially deactivating its’ transponder.
 
@@ -59,18 +64,33 @@ After observations are algorithmically grouped into distinct flights, we can zoo
 In one example, Cyprus, long described as a gateway into Europe for Russian money, has seen many interesting visitors (each oligarch has his own color!... see below for details).
 
 
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/blog_cyprus_1.png" class="img-right">
+<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/blog_cyprus_1.png" align="center">
 
 
 ### Come for Company Formation, Stay for the Beaches
 
-While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man. 
+While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man.  To understand how these destinations might be of interest, look no further than OCCRP's fine reporting on two global operations.
 
-<img src="https://www.occrp.org/images/panamapapers.jpg">
+<a href="https://www.occrp.org/en/panamapapers/">
+    <figure>
+<!--  <a href="https://www.occrp.org/en/panamapapers/"> -->
+    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" text-align="right">
+<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Panama Papers</caption> -->
+    </figure>
+</a>
+
+<a href="https://www.occrp.org/en/laundromat/">
+    <figure>
+    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/laundromat-infographic-short.png" align="right" width="400px" text-align="right">
+<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption> -->
+    </figure>
+</a>
 
 Returning to Mr. Abramovich, we know his jet visited the area of the British Virgin Islands several times in early 2017, including this trip from New Jersey on February 17 2017, staying until February 27.  Similar trips occured on January 3, and March 24, and December 22. 
 
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" width="200px" class="img-right">
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" align="right" width="200px" text-align="right">
+</figure>
 
 
 Are billionaires not allowed to soak in long sea-breeze Caribbean evenings on the beach along with the rest of us (who can afford to step foot in these exclusive communities)?  One imagines his evenings,enjoying peaceful Gulf sunsets while sipping from a bottle of 1780 Barbados Private Estate, attended by a small army of dolphins trained for his exclusive entertainment from the comfort of a glass-walled swimming pool levitating above a flawless peach-hued bay.  
@@ -165,9 +185,8 @@ OCCRP has initially examined 35 aircraft of interest flying more than 7.5 millio
 | 2/25/2018  | London, UK | Panama City, Panama  |
 | 4/11/2018  | Panama City, Panama  | Punta Cana, Dominican Republic  |
 
-{link to table : https://docs.google.com/spreadsheets/d/1TqrOlnOvxx38xUqIoWlkGkCofOEJpXHMjvAvsYxbNAk/edit?usp=sharing}
 
-Investigative curiosities from the jet-setting frontier don’t stop at money laundering.  Witness Mr. Abramovich on 3-9-18, flying (it appears) from Crimea, amusingly looping the hundreds of kilometers all the way round Ukrainian airspace, to London. 
+Investigative curiosities from the jet-setting frontier don’t stop at money laundering.  Witness Mr. Abramovich on 3-9-18, flying (it appears) from Crimea / Rostov-on-Don area, amusingly looping the hundreds of kilometers all the way round Ukrainian airspace, to London. 
 
 <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2018-03-09_Taganrog_Beccles.png">
  
