@@ -187,7 +187,7 @@ OCCRP has initially examined 35 aircraft of interest flying more than 7.5 millio
 
 {link to table : https://docs.google.com/spreadsheets/d/1TqrOlnOvxx38xUqIoWlkGkCofOEJpXHMjvAvsYxbNAk/edit?usp=sharing}
 
-Investigative curiosities from the jet-setting frontier don’t stop at money laundering.  Witness Mr. Abramovich on 3-9-18, flying (it appears) from Crimea, amusingly looping the hundreds of kilometers all the way round Ukrainian airspace, to London. 
+Investigative curiosities from the jet-setting frontier don’t stop at money laundering.  Witness Mr. Abramovich on 3-9-18, flying (it appears) from Crimea / Rostov-on-Don area, amusingly looping the hundreds of kilometers all the way round Ukrainian airspace, to London. 
 
 <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2018-03-09_Taganrog_Beccles.png">
  
