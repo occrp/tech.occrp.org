@@ -37,7 +37,7 @@ These barriers and the implied complicity of the flight-tracking community have 
 Receivers in this co-operative network record information including the aircraft position, speed, altitude, and timestamp, all signed with an ‘address’ known as an ICAO address or Mode-S code, which uniquely identifies the aircraft.  Each of these receivers in turn has an effective range, in terms of distance from the receiver and altitude of the aircraft, to a maximum of around four hundred kilometers.  
 
 <figure>
-  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" align="right"  width="400px" text-align="right">
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/600_si_fl_ads-b_22_fa2_flat_rev_5-15.jpg" align="right"  width="600px" text-align="right">
 <!--  <caption>Credit: National Air and Space Museum, Smithsonian Institution.</caption> -->
 </figure>
 
@@ -71,26 +71,23 @@ In one example, Cyprus, long described as a gateway into Europe for Russian mone
 
 While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man.  To understand how these destinations might be of interest, look no further than OCCRP's fine reporting on two global operations.
 
-<div class="captioned">
-    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" class="img-left">
-    <a href="https://www.occrp.org/en/panamapapers/">
-    <div class="caption">
-        Credit: Dig deeper : The OCCRP reports on The Panama Papers
-    </div>
-</div>
+<figure>
+  <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" text-align="left">
+  <a href="https://www.occrp.org/en/panamapapers/">
+<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Panama Papers</caption> -->
+</figure>
 
-<div class="captioned">
-    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/laundromat-infographic-short.png" width="400px" class="img-right">
-    <a href="https://www.occrp.org/en/laundromat/">
-    <div class="caption">
-        Credit: Dig deeper : The OCCRP reports on The Russian Laundromat
-    </div>
-</div>
-
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/laundromat-infographic-short.png" align="right" width="400px" text-align="right">
+  <a href="https://www.occrp.org/en/laundromat/">
+<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption> -->
+</figure>
 
 Returning to Mr. Abramovich, we know his jet visited the area of the British Virgin Islands several times in early 2017, including this trip from New Jersey on February 17 2017, staying until February 27.  Similar trips occured on January 3, and March 24, and December 22. 
 
-<img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" width="200px" class="img-right">
+<figure>
+  <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" align="right" width="200px" text-align="right">
+</figure>
 
 
 Are billionaires not allowed to soak in long sea-breeze Caribbean evenings on the beach along with the rest of us (who can afford to step foot in these exclusive communities)?  One imagines his evenings,enjoying peaceful Gulf sunsets while sipping from a bottle of 1780 Barbados Private Estate, attended by a small army of dolphins trained for his exclusive entertainment from the comfort of a glass-walled swimming pool levitating above a flawless peach-hued bay.  
