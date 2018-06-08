@@ -74,7 +74,7 @@ While the wealthy and powerful travel European capitals and the exclusive resort
 <a href="https://www.occrp.org/en/panamapapers/">
     <figure>
 <!--  <a href="https://www.occrp.org/en/panamapapers/"> -->
-    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="right" width="400px" text-align="right">
+    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" text-align="right">
 <!--  <caption> Credit: Dig deeper : The OCCRP reports on The Panama Papers</caption> -->
     </figure>
 </a>
@@ -185,7 +185,6 @@ OCCRP has initially examined 35 aircraft of interest flying more than 7.5 millio
 | 2/25/2018  | London, UK | Panama City, Panama  |
 | 4/11/2018  | Panama City, Panama  | Punta Cana, Dominican Republic  |
 
-{link to table : https://docs.google.com/spreadsheets/d/1TqrOlnOvxx38xUqIoWlkGkCofOEJpXHMjvAvsYxbNAk/edit?usp=sharing}
 
 Investigative curiosities from the jet-setting frontier don’t stop at money laundering.  Witness Mr. Abramovich on 3-9-18, flying (it appears) from Crimea / Rostov-on-Don area, amusingly looping the hundreds of kilometers all the way round Ukrainian airspace, to London. 
 
