@@ -73,17 +73,21 @@ While the wealthy and powerful travel European capitals and the exclusive resort
 
 <a href="https://www.occrp.org/en/panamapapers/">
     <figure>
-    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" text-align="right">
+    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" height="200px" text-align="right">
 <!--  <caption> Credit: Dig deeper : The OCCRP reports on The Panama Papers</caption> -->
     </figure>
 </a>
 
 <a href="https://www.occrp.org/en/laundromat/">
     <figure>
-    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/rus_laundromat_banner.jpg" align="right" width="400px" text-align="right">
+    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/rus_laundromat_banner.jpg" align="right" width="400px" height="200px" text-align="right">
 <!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption> -->
     </figure>
 </a>
+
+&nbsp;
+
+&nbsp;
 
 <figure>
   <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" align="right" width="200px" text-align="right">
@@ -95,25 +99,29 @@ Are billionaires not allowed to soak in long sea-breeze Caribbean evenings on th
 OCCRP alleges no illegal activity by Mr. Abramovich or any of the other billionaires detailed below, only that they are frequent fliers to certain locations.  They may well be simply vacationing via private jet.  
 It might just be of interest to see if any companies were registered during these afternoons. 
 
+&nbsp;
+
 [British Virgin Islands Company Gazette](https://eservices.gov.vg/gazette/)
 
-
+&nbsp;
 
 ### Boyars in Paradise (and the Irish Sea)
 OCCRP has initially examined 35 aircraft of interest flying more than 7.5 million kilometers over some 5800 flights.  This analysis has uncovered trips to known money laundering resorts from a number of notable figures including:
 
-##### Roman Abramovich : Russian diversified businessman, philanthropist, and owner of Chelsea FC.
-##### Alisher Usmanov : Uzbek-Russian industrial magnate and investor.
-##### Alexander Abramov : Russian steel magnate, chairman of Evraz Group.
-##### Farkhad Akhmedov : Azeri-Russian businessman and politician.
-##### Len Blavatnik : Soviet-born British-American diversified businessman.  Active in American politics and longtime friend of Viktor Vekselberg.
-##### Igor Makarov : Turkmen-Russian businessman, owner of ARETI International Group.  
-##### Andrey Guryev : Dominant in the Russian fertilizer industry; beneficial owner of PhosAgro. 
-##### Dmytro Firtash : Ukranian businessman and ally of the Yuschenko & Yanukovich administrations.  US currently seeking extradition.
-##### Leonid Mikhelson : Owner of Russian gas company Novatek and subject to US sanctions. 
-##### Oleg Tinkov : Russian diversified businessman and founder of Tinkoff Bank.  
-##### Alexei Mordashov : Russian owner of Severstal.  
-##### Alexander Mashkevitch : Kazakh-Israeli businessman and major shareholder in Eurasian National Resources Corporation. 
+
+
+- Alexander Abramov : Russian steel magnate, chairman of Evraz Group.
+- Alexander Mashkevitch : Kazakh-Israeli businessman and major shareholder in Eurasian National Resources Corporation. 
+- Alexei Mordashov : Russian owner of Severstal.  
+- Alisher Usmanov : Uzbek-Russian industrial magnate and investor.
+- Andrey Guryev : Dominant in the Russian fertilizer industry; beneficial owner of PhosAgro. 
+- Dmytro Firtash : Ukranian businessman and ally of the Yuschenko & Yanukovich administrations.  US currently seeking extradition.
+- Farkhad Akhmedov : Azeri-Russian businessman and politician.
+- Igor Makarov : Turkmen-Russian businessman, owner of ARETI International Group. 
+- Len Blavatnik : Soviet-born British-American diversified businessman.  Active in American politics and longtime friend of Viktor Vekselberg.
+- Leonid Mikhelson : Owner of Russian gas company Novatek and subject to US sanctions. 
+- Oleg Tinkov : Russian diversified businessman and founder of Tinkoff Bank.  
+- Roman Abramovich : Russian diversified businessman, philanthropist, and owner of Chelsea FC.
 
 | Aircraft Owner | Date | Origin  | Destination |
 | ------------- | ------------- | ------------- | ------------- |
@@ -153,6 +161,19 @@ Food for thought:
 - Should we publish a weekly digest of the movements of select aircraft or travel into certain locations?  
 - Can we identify events whose airborne attendees we could study?  
 - If you had access to a web resource which allowed you to browse the travels of select aircraft or ownership organizations (think ‘Azerbaijan Airlines’ or other pseudo-governmental carriers), how would you use it?
-- [A live version of the ADSB Exchange tracking network is always viewable](https://global.adsbexchange.com/VirtualRadar/desktop.html)
+- [A live version of the ADSB Exchange tracking network is always viewable (sceen below)](https://global.adsbexchange.com/VirtualRadar/desktop.html)
 
 <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/adsb_exchange_screencap.jpg">
+
+
+&nbsp;
+
+&nbsp;
+
+Thanks to :
+- ADSB 'Can' Receiver courtesy www.adsbexchange.com
+- ADSB System Illustration courtesy The National Air and Space Museum, Smithsonian Institution
+- All aircraft-tracking maps generated with 'Basemap' https://github.com/matplotlib/basemap
+
+
+
