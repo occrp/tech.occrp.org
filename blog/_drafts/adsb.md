@@ -45,11 +45,11 @@ This network of receivers is located mostly on densely populated landmasses so d
 
 To assemble collections of readings that constitute distinct flights, OCCRP’s data team has designed a small collection of data analysis algorithms which, among other things, group observations of any aircraft across multiple atennae by timestamp and infer takeoff & landing through a combination of first & last position relative to major airports and aircraft altitude at the time.  
 
-For example, if a collection shows an aircraft’s final position reading for (at least) many hours near London Heathrow at a low altitude, our algorithm assumes it’s landed there.  
-
 <figure>
   <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/48434F2016-07-01_Moscow_London.png" align="right" width="200px" text-align="right">
 </figure>
+
+For example, if a collection shows an aircraft’s final position reading for (at least) many hours near London Heathrow at a low altitude, our algorithm assumes it’s landed there.  
 
 By contrast, if we find the last reading at a high altitude above the North Atlantic off the Irish coast, with readings resuming after a couple of hours above Iceland, we stitch the two sets of positions together.  
 
@@ -81,7 +81,7 @@ While the wealthy and powerful travel European capitals and the exclusive resort
 
 <a href="https://www.occrp.org/en/laundromat/">
     <figure>
-    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/laundromat-infographic-short.png" align="right" width="400px" text-align="right">
+    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/rus_laundromat_banner.jpg" align="right" width="400px" text-align="right">
 <!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption> -->
     </figure>
 </a>
