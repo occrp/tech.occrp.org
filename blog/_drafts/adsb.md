@@ -69,23 +69,7 @@ In one example, Cyprus, long described as a gateway into Europe for Russian mone
 
 ### Come for Company Formation, Stay for the Beaches
 
-While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man.  To understand how these destinations might be of interest, look no further than OCCRP's fine reporting on two global operations.
-
-<a href="https://www.occrp.org/en/panamapapers/">
-    <figure>
-    <img src="https://www.occrp.org/images/panamapapers.jpg" width="400px" align="left" width="400px" height="200px" text-align="right">
-<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Panama Papers</caption> -->
-    </figure>
-</a>
-
-<a href="https://www.occrp.org/en/laundromat/">
-    <figure>
-    <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/rus_laundromat_banner.jpg" align="right" width="400px" height="200px" text-align="right">
-<!--  <caption> Credit: Dig deeper : The OCCRP reports on The Russian Laundromat</caption> -->
-    </figure>
-</a>
-
-&nbsp;
+While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man.  As a brief introduction to how these destinations might be of interest, look no further than OCCRP's own reporting on two huge global operations, [The Panama Papers](https://www.occrp.org/en/panamapapers/) and [The Russian Laundromat](https://www.occrp.org/en/laundromat/).
 
 &nbsp;
 
@@ -98,8 +82,6 @@ Returning to Mr. Abramovich, we know his jet visited the area of the British Vir
 Are billionaires not allowed to soak in long sea-breeze Caribbean evenings on the beach along with the rest of us (who can afford to step foot in these exclusive communities)?  One imagines his evenings,enjoying peaceful Gulf sunsets while sipping from a bottle of 1780 Barbados Private Estate, attended by a small army of dolphins trained for his exclusive entertainment from the comfort of a glass-walled swimming pool levitating above a flawless peach-hued bay.  
 OCCRP alleges no illegal activity by Mr. Abramovich or any of the other billionaires detailed below, only that they are frequent fliers to certain locations.  They may well be simply vacationing via private jet.  
 It might just be of interest to see if any companies were registered during these afternoons. 
-
-&nbsp;
 
 [British Virgin Islands Company Gazette](https://eservices.gov.vg/gazette/)
 
