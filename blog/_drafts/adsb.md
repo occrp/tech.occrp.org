@@ -66,12 +66,11 @@ In one example, Cyprus, long described as a gateway into Europe for Russian mone
 
 <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/blog_cyprus_1.png" align="center">
 
+&nbsp;
 
 ### Come for Company Formation, Stay for the Beaches
 
 While the wealthy and powerful travel European capitals and the exclusive resorts of the ultra-rich quite frequently, insight into their travels goes well beyond Monaco and Sochi, and visits to more tropical climates may prove of greater interest.  OCCRPs’ initial analysis has centered on sunny money laundering hubs including the British Virgin Islands, Cyprus, or Panama City, as well as the considerably less sunny Isle of Man.  As a brief introduction to how these destinations might be of interest, look no further than OCCRP's own reporting on two huge global operations, [The Panama Papers](https://www.occrp.org/en/panamapapers/) and [The Russian Laundromat](https://www.occrp.org/en/laundromat/).
-
-&nbsp;
 
 <figure>
   <img src="https://github.com/occrp/tech.occrp.org/blob/adsb_post/assets/images/2018-06/roma_VG.png" align="right" width="200px" text-align="right">
