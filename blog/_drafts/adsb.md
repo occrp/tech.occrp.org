@@ -139,6 +139,7 @@ Or his visit to the Iranian island oil and gas outpost of Sirri on January 28 20
 These findings are only the beginning.  We encourage interested journalists to contact data@occrp.org with research requests and opinions on how best to make this data available to reporters.  We want to hear from you!  
 Food for thought:
 
+- With the help of OCCRP Research, Data Team has compiled a long list of 'interesting' aircraft from the oligarchs above to the Saudi Royals.  Let us know who you're looking for.
 - Should we publish a weekly digest of the movements of select aircraft or travel into certain locations?  
 - Can we identify events whose airborne attendees we could study?  
 - If you had access to a web resource which allowed you to browse the travels of select aircraft or ownership organizations (think ‘Azerbaijan Airlines’ or other pseudo-governmental carriers), how would you use it?
